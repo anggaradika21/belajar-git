@@ -16,7 +16,7 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 09 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
 - [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
 - Tutorial Git 11 - Git Tag
-
+-gg galang
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
