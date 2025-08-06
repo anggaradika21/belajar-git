@@ -4,7 +4,6 @@ Repository ini adalah repository _dummy_ untuk belajar Git.
 Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
 
 Atau mulai belajar Git dari awal:
-
 - [Tutorial Git 01 - Instalasi Git dan Persiapan Awal](https://www.petanikode.com/git-install/)
 - [Tutorial Git 02 - Membuat Repositori Git](https://www.petanikode.com/git-init/)
 - [Tutorial Git 03 - Membuat Revisi](https://www.petanikode.com/git-commit/)
@@ -16,7 +15,7 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 09 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
 - [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
 - Tutorial Git 11 - Git Tag
-
+-totorial dari galang
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
